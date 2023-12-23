@@ -1,0 +1,13 @@
+.info {
+    margin: 10px;
+}
+
+.skill {
+    margin: 4px;
+    padding: 7px;
+    font-size: 14.3px;
+    border-radius: 5px;
+    font-weight: 600;
+    background-color: #0B0B15;
+    color: #fff;
+}

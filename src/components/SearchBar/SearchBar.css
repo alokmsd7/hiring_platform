@@ -1,0 +1,35 @@
+/* SearchBar.css */
+
+.search-bar-container {
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    flex: 1;
+    /* Add margin as needed */
+}
+
+.search-bar-wrapper {
+    background-color: #fff;
+    display: flex;
+    margin: 10px;
+    flex: 1;
+}
+
+.search-bar-box {
+    flex: 3;
+    height: "45px";
+    margin: "8px";
+    display: flex;
+    /* box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1); */
+    /* Updated margin */
+}
+
+.search-button {
+    border-radius: "5px";
+    flex: 3;
+    border-radius: "5px";
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
+    /* display: "inline"; */
+    /* height: "45px"; */
+    /* margin: "8px"; */
+    padding: 2px;
+}
