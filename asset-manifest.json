@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/hiring_platform/static/css/main.6c2c932e.css",
+    "main.js": "/github.io/hiring_platform/static/js/main.01fa551b.js",
+    "static/media/img1.jpg": "/github.io/hiring_platform/static/media/img1.86c66569a3e124d88c5b.jpg",
+    "index.html": "/github.io/hiring_platform/index.html",
+    "main.6c2c932e.css.map": "/github.io/hiring_platform/static/css/main.6c2c932e.css.map",
+    "main.01fa551b.js.map": "/github.io/hiring_platform/static/js/main.01fa551b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c2c932e.css",
+    "static/js/main.01fa551b.js"
+  ]
+}
